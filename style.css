@@ -99,7 +99,7 @@ button.operator:hover {
 }
 
 button.equals {
-  grid-column: span 3;
+  grid-column: span 2;
   aspect-ratio: auto;
   border-color: #246d68;
   background: #2e817a;
